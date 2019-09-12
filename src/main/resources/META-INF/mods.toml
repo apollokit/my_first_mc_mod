@@ -1,0 +1,12 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28]" #mandatory. 26 for 1.14.2, 27 for 1.14.3
+credits="Thanks suppergerrie2 for this example!" #optional
+[[mods]] #mandatory
+modId="firstmcmod" #mandatory
+version="1.0" #mandatory
+displayName="First MC Mod" #mandatory
+description='''
+My first mod.
+
+Developed based on suppergerrie2's tutorial
+'''
